@@ -33,7 +33,7 @@ h3 {
     font-family: "Roboto Mono";
 }
 
-.certs {
+.aboutme {
     float: left;
     padding-left: 10%;
 }
@@ -50,4 +50,12 @@ h3 {
 
 img {
     max-width: 30%;
+}
+
+tr {
+    color: #EBDBB2;
+}
+
+td {
+    padding-left: 20px;
 }
