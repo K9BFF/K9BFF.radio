@@ -36,3 +36,13 @@ h3 {
     color: #EBDBB2;
     font-family: "Roboto Mono";
 }
+
+button {
+    border: none;
+    outline: none;
+}
+
+button:hover {
+    background-color: transparent;
+    color: inherit;
+}
