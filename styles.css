@@ -25,7 +25,11 @@ body {
 h1 {
     color: #EBDBB2;
     font-family: "Roboto Mono";
-    align: center;
+}
+
+h2 {
+    color: #EBDBB2;
+    font-family: "Roboto Mono";
 }
 
 h3 {
