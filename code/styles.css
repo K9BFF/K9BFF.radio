@@ -32,3 +32,20 @@ h3 {
     color: #EBDBB2;
     font-family: "Roboto Mono";
 }
+
+.contacts {
+    float: left;
+}
+
+.info{
+    align: right;
+}
+
+.hitcounter {
+    bottom: 20px;
+    right: 20px;
+}
+
+.container {
+    display: flex;
+}

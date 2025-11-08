@@ -28,7 +28,27 @@ h1 {
     align: center;
 }
 
+h2 {
+    color: #EBDBB2;
+    font-family: "Roboto Mono";
+    align: center;
+}
+
 h3 {
     color: #EBDBB2;
     font-family: "Roboto Mono";
+}
+
+.contacts {
+    float: left;
+    padding-left: 10%;
+}
+
+.onair{
+    float: right;
+    padding-right: 10%
+}
+
+.container {
+    display: flex;
 }
