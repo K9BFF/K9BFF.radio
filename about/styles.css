@@ -56,6 +56,7 @@ img {
 table {
     font-family: "Roboto Mono";
     color: #EBDBB2;
+    text-align: left;
 }
 
 td {
@@ -66,4 +67,10 @@ td {
 .heading {
     box-align: left;
     padding-left: 10%
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
