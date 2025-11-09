@@ -41,8 +41,3 @@ button {
     border: none;
     outline: none;
 }
-
-button:hover {
-    background-color: transparent;
-    color: inherit;
-}
