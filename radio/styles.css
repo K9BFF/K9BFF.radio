@@ -7,12 +7,6 @@
     font-style: normal;
 }
 
-
-a {
-    color: #EBDBB2;
-    font-family: "Roboto Mono";
-}
-
 p {
     color: #EBDBB2;
     font-family: "Roboto Mono";
@@ -20,18 +14,6 @@ p {
 
 body {
     background-color: #282828;
-}
-
-h1 {
-    color: #EBDBB2;
-    font-family: "Roboto Mono";
-    align: center;
-}
-
-h2 {
-    color: #EBDBB2;
-    font-family: "Roboto Mono";
-    align: center;
 }
 
 h3 {
@@ -47,10 +29,6 @@ h3 {
 .onair{
     float: right;
     padding-right: 10%
-}
-
-.container {
-    display: flex;
 }
 
 .center {

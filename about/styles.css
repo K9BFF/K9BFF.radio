@@ -24,12 +24,6 @@ body {
     background-color: #282828;
 }
 
-h1 {
-    color: #EBDBB2;
-    font-family: "Roboto Mono";
-    box-align: center;
-}
-
 h3 {
     color: #EBDBB2;
     font-family: "Roboto Mono";
@@ -45,10 +39,6 @@ h3 {
     padding-right: 10%
 }
 
-.container {
-    display: flex;
-}
-
 img {
     max-width: 30%;
 }
@@ -61,12 +51,6 @@ table {
 
 td {
     padding-left: 20px;
-}
-
-
-.heading {
-    box-align: left;
-    padding-left: 10%
 }
 
 .center {

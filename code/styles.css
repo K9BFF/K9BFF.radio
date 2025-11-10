@@ -7,7 +7,6 @@
     font-style: normal;
 }
 
-
 a {
     color: #EBDBB2;
     font-family: "Roboto Mono";
@@ -22,32 +21,14 @@ body {
     background-color: #282828;
 }
 
-h1 {
-    color: #EBDBB2;
-    font-family: "Roboto Mono";
-    align: center;
-}
-
 h3 {
     color: #EBDBB2;
     font-family: "Roboto Mono";
 }
 
-.contacts {
-    float: left;
-}
 
 .info{
     align: right;
-}
-
-.hitcounter {
-    bottom: 20px;
-    right: 20px;
-}
-
-.container {
-    display: flex;
 }
 
 .center {
