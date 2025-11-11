@@ -29,3 +29,15 @@ h3 {
     margin-right: auto;
     text-align: center;
 }
+
+.left-side {
+    float: left;
+    padding-left: 10%;
+    text-align: left;
+}
+
+.right-side {
+    float: right;
+    padding-right: 10%;
+    text-align: left;
+}
