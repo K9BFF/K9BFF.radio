@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
+
+h2 {
+    color: #EBDBB2;
+    font-family: "Roboto Mono";
+}
+
+h3 {
+    color: #EBDBB2;
+    font-family: "Roboto Mono";
+}
+
 a {
     color: #EBDBB2;
     font-family: "Roboto Mono";
@@ -14,14 +25,14 @@ body {
     background-color: #282828;
 }
 
-h3 {
-    color: #EBDBB2;
+table {
     font-family: "Roboto Mono";
+    color: #EBDBB2;
+    text-align: left;
 }
 
-
-.info{
-    align: right;
+td {
+    padding-left: 20px;
 }
 
 .center {
@@ -44,4 +55,10 @@ h3 {
 
 .clickable {
     cursor: pointer;
+}
+
+.centerNix {
+    display: block;
+    margin: auto;
+    width: 50%;
 }
