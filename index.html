@@ -4,20 +4,16 @@
 <head>
     <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
     <link rel="stylesheet" href="/assets/styles.css">
+    <script src="/assets/main.js"></script>
     <meta charset="UTF-8">
     <title>K9BFF</title>
-    <script type="text/javascript">
-	    function playAudio(audioClip) {
-	        new Audio(audioClip).play();
-	    }
-	</script>
 </head>
 <body>
     <div class="center">
         <br />
         <h2>K9BFF.radio</h2>
         <img
-            onclick="playAudio('/assets/audio/bark.mp3'); alert('bark!!');"
+            onclick="playSound('/assets/audio/bark.mp3'); alert('bark!!');"
             src="/assets/images/dawg.jpg">
         <p><i>"In Dog We Trust"</i></p>
         <p><a href="/radio">radio</a> | <a href="/about">about</a> | <a href="/code">code</a></p>
